@@ -12,3 +12,5 @@ Creating a new branch is quick && simple
 creat test
 creat test22
 >>>>>>> testdev
+there is something wrong 
+wrong wrong wrong wrong 
